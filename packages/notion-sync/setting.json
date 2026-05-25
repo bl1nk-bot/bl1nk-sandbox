@@ -1,0 +1,7 @@
+{
+  "notion_token": "secret_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "notion_database_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "notion_version": "2022-06-28",
+  "vault_path": "/path/to/your/obsidian/vault",
+  "vault_subfolder": "Prompts"
+}
